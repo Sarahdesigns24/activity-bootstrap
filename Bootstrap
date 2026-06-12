@@ -1,0 +1,44 @@
+HTML
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css"
+    rel="stylesheet">
+        <title>Activity Bootstrap</title>
+</head>
+<body>
+<main class="container">
+    <nav class="nav">
+        
+    </nav>
+
+    <section class="row">
+        <article class="col">
+            <h1>Activity Bootstrap</h1>
+            <p>Sarah Bennett</p>
+            <p>2024-06-011</p>
+        </article>
+    </section>
+    <section class="row">
+
+            <article class="col">
+            <h2>Viewport</h2>
+            <p>A viewport is the visible area of a web page in a browser window.</p>
+            </article>
+
+        </article class="col">
+            <h2>Flexbox</h2>
+            <p>Flexbox is a CSS layout model used to arrange items in rows or columns.</p>
+        </article>
+
+        <article class="col">
+            <h2>Grid</h2>
+            <p>A grid layout is a two-dimensional layout System that organizes content into rows and columns.</p>
+            </article>
+    
+    </section>
+    </main>
